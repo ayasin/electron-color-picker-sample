@@ -1,6 +1,6 @@
 # Electron color picker sample
 
-This project is sample code for (electron-request-reponse)[https://github.com/ayasin/electron-request-reponse].  It's built on top of (electron-react-minimalist-bootstrap)[https://github.com/ayasin/electron-react-minimalist-bootstrap].
+This project is sample code for [electron-request-reponse](https://github.com/ayasin/electron-request-reponse).  It's built on top of [electron-react-minimalist-bootstrap](https://github.com/ayasin/electron-react-minimalist-bootstrap).
 
 ### Running the project
 
